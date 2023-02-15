@@ -16,7 +16,7 @@ export default function Hero({ title }) {
                 <p><b><u><i>
                     Ready to start creating YouTube videos while padding your
                     resume, building your brand, and learning a lot along the
-                    way?
+                    way? .
                     </i></u></b>
                 </p>
                 <a
